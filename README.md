@@ -6,5 +6,6 @@
   Hey, I'm Garrison!
   <br>
   A.K.A. "Gingie" or "Lunatic," depending on how you know me.
+  <br>
   [devsite coming soon!]
 </h3>
