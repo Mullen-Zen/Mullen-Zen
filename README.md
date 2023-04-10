@@ -1,4 +1,7 @@
-<link href="style.css" rel="stylesheet"></link>
+<div align="center">
+  <img src="style.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 <!-- Intro -->
 <h1 class="test" align="center">
   <img src="Images/Banner.png">
