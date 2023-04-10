@@ -1,4 +1,4 @@
-<h1 class="test" align="center">
+<h1 align="center">
   <img src="Images/Banner.png">
 </h1>
 
