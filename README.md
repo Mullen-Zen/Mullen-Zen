@@ -3,8 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <b>Hey, I'm Garrison!</b>
-
+  <strong>Hey, I'm Garrison!</strong>
   A.K.A. "Gingie" or "Lunatic," depending on how you know me.
   [devsite coming soon!]
 </h3>
