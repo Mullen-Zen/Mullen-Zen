@@ -1,3 +1,3 @@
 <h1 aligh="center">
-  <img src="Images/banner.png">
+  <img src="Images/Banner.png">
 </h1>
