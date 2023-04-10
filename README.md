@@ -4,8 +4,6 @@
 
 <h3 align="center">
   Hey! I'm Garrison
-  <br><br>
-  A.K.A. "Gingie" or "Lunatic," if you know me from online stuff.
-  <br>
-  [devsite coming soon!]
+  
+  <h2>[] About Me</h2>
 </h3>
