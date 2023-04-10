@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 <!-- Intro -->
-<h1 align="center">
+<h1 class="test" align="center">
   <img src="Images/Banner.png">
 </h1>
 
