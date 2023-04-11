@@ -13,11 +13,12 @@
 
 </h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mullen-Zen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mullen-Zen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullen-zen&layout=compact)](https://github.com/mullen-zen/github-readme-stats) -->
 
-  
+![View Counter](https://komarev.com/ghpvc/?username=mullen-zen&color=blue&label=Visitors&style=for-the-badge)<br>
+
 <h2>🖥️ Stuff I Work With</h2>
     
 ![Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?logo=google&logoColor=white&style=for-the-badge)
