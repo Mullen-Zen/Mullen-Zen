@@ -13,9 +13,9 @@
 
 </h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mullen-Zen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mullen-Zen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=cobalt" /><br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullen-zen&layout=compact)](https://github.com/mullen-zen/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullen-zen)](https://github.com/mullen-zen/github-readme-stats) -->
 
 ![View Counter](https://komarev.com/ghpvc/?username=mullen-zen&color=blue&label=Visitors&style=for-the-badge)<br>
 
