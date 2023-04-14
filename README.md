@@ -28,6 +28,7 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Processing](https://img.shields.io/badge/-Processing-006699?logo=processingfoundation&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 <!-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge) -->
 <!-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge) -->
