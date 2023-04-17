@@ -28,12 +28,13 @@
 ![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![Redstone](https://img.shields.io/badge/-Redstone-EF323D?logo=mojangstudios&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 ![Processing](https://img.shields.io/badge/-Processing-006699?logo=processingfoundation&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 <!-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge) -->
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge) -->
 
 ![Snake animation](https://github.com/Mullen-Zen/Mullen-Zen/blob/output/github-contribution-grid-snake.svg)
