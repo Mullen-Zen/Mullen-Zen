@@ -9,7 +9,6 @@
   💠 From Greenville, North Carolina, USA.<br>
   🎓 Studying at [Trinity College Dublin](https://www.tcd.ie) for an undergraduate degree in Computer Science and Business.<br>
   🧠 My aspirations include game development (PC/VR), AI, and miscellaneous tomfoolery.<br>
-  <!--💻 Currently employed by [Beast Philanthropy](https://beastphilanthropy.org) as a Software Engineer.<br> -->
 
 </h3>
 
