@@ -5,9 +5,9 @@
 <h2>Hey! I'm Garrison.<br><br>💬 About Me</h2>
 <h3>
 
-  👋 Student, Software Developer, and ["Microinfluencer"](https://twitch.tv/lunaticginger7).<br>
-  💠 From Greenville, North Carolina, USA.<br>
-  🎓 Studying at [Trinity College Dublin](https://www.tcd.ie) for an undergraduate degree in Computer Science and Business.<br>
+  👋 Student, Software Developer, and Twitch Streamer.<br>
+  💠 From Raleigh, North Carolina, USA.<br>
+  🎓 Studying at [NCSU](https://www.ncsu.edu) for an undergraduate degree in Computer Science.<br>
   🧠 My aspirations include game development (PC/VR), AI, and miscellaneous tomfoolery.<br>
 
 </h3>
