@@ -6,8 +6,8 @@
 <h3>
 
   👋 Student, Software Developer, and Twitch Streamer.<br>
-  💠 From Raleigh, North Carolina, USA.<br>
-  🎓 Studying at [NCSU](https://www.ncsu.edu) for an undergraduate degree in Computer Science.<br>
+  💠 From Greenville, North Carolina, USA.<br>
+  🎓 Studying at ECU for an undergraduate degree in Computer Science.<br>
   🧠 My aspirations include game development (PC/VR), AI, and miscellaneous tomfoolery.<br>
 
 </h3>
