@@ -18,7 +18,7 @@
 
 <h2>🖥️ Stuff I'm Currently Working With</h2>
     
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 <h2>🖥️ Stuff I've Worked with In the Past</h2>
