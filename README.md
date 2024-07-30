@@ -47,5 +47,3 @@
 ![Processing](https://img.shields.io/badge/-Processing-006699?logo=processingfoundation&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge)
-
-![Snake animation](https://github.com/Mullen-Zen/Mullen-Zen/blob/output/github-contribution-grid-snake.svg)
