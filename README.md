@@ -13,7 +13,7 @@
 </h2>
 <h3>
 
-  👋 Student, Software Developer, and Massive TCG Nerd.<br>
+  👋 Student, Software Developer, and Problem-Solver.<br>
   💠 From Greenville, North Carolina, USA.<br>
   🎓 Studying at ECU for an undergraduate degree in Computer Science.<br>
   🧠 My professional passions are web application development, data management systems architecture, and digital process development.<br>
@@ -47,7 +47,6 @@ My stats aren't very accurate, given that I mostly work in private repositories 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white&style=for-the-badge)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 ![Processing](https://img.shields.io/badge/-Processing-006699?logo=processingfoundation&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
