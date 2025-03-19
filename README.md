@@ -15,7 +15,7 @@
 
   👋 Student, Software Developer, and Problem-Solver.<br>
   💠 From Greenville, North Carolina, USA.<br>
-  🎓 Studying at ECU for an undergraduate degree in Computer Science.<br>
+  🎓 Studying at ECU for a B.S. degree in Computer Science with minors in Business Administration and English.<br>
   🧠 My professional passions are web application development, data management systems architecture, and digital process development.<br>
   💬 I've always been enamored by the idea that the code I work on throughout my life will likely outlive me and my living memory. In a sense, my digital fingerprints are on the servers that form the infrastructure of the world for centuries to come.
 
