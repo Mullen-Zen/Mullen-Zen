@@ -33,20 +33,20 @@ These stats aren't super accurate, given that I mostly work in private repos for
 
 <h2>🖥️ I'm Currently Working With:</h2>
 
-![Beast Philanthropy](https://img.shields.io/badge/-Beast%20Philanthropy-35bdf7?logo=youtube&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-html5-e34f26?logo=html5&logoColor=white&style=for-the-badge)
-![JS](https://img.shields.io/badge/-javascript-339933?logo=javascript&logoColor=white&style=for-the-badge)    
+![Beast Philanthropy](https://img.shields.io/badge/-Beast%20Philanthropy-35bdf7?logo=youtube&logoColor=white&style=for-the-badge)    
 ![PHP](https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 
 <h2>🖥️ In The Past, I've Worked With:</h2>
 
+![CSS](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-html5-e34f26?logo=html5&logoColor=white&style=for-the-badge)
+![JS](https://img.shields.io/badge/-javascript-339933?logo=javascript&logoColor=white&style=for-the-badge)
 ![ARM Assembly](https://img.shields.io/badge/-Assembly-0091BD?logo=arm&logoColor=white&style=for-the-badge)
 ![Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?logo=google&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 ![Processing](https://img.shields.io/badge/-Processing-006699?logo=processingfoundation&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
