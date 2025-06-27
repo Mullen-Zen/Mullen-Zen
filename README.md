@@ -4,7 +4,7 @@
 
 <h3>
   Hi! I'm Garrison.<br>
-  I'm a full-stack software developer, proudly working at Beast Philanthropy to help better the lives of my community and the world.
+  I'm a full-stack software developer, proudly working at Apple to help people use their technology to the fullest extent, and with Beast Philanthropy to help better the lives of my community and the world.
 </h3>
 <h2>
   💬 About Me
@@ -33,6 +33,7 @@ These stats aren't super accurate, given that I mostly work in private repos for
 
 <h2>🖥️ I'm Currently Working With:</h2>
 
+![Apple](https://img.shields.io/badge/-apple-D3D3D3?logo=apple&logoColor=white&style=for-the-badge)
 ![Beast Philanthropy](https://img.shields.io/badge/-Beast%20Philanthropy-35bdf7?logo=youtube&logoColor=white&style=for-the-badge)    
 ![PHP](https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
