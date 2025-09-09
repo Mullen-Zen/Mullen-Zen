@@ -4,18 +4,18 @@
 
 <h3>
   Hi! I'm Garrison.<br>
-  I'm a full-stack software developer, proudly working at Apple to help people use their technology to the fullest extent, and with Beast Philanthropy to help better the lives of my community and the world.
+  I'm a full-stack software developer, working with Beast Philanthropy to help better the lives of my community and the world.
 </h3>
 <h2>
   💬 About Me
 </h2>
 <h3>
 
-  👋 Student, Software Developer, and Problem-Solver.<br>
+  👋 Student & Software Developer.<br>
   💠 From Greenville, North Carolina, USA.<br>
   🎓 Studying at ECU for a B.S. degree in Computer Science with minors in Business Administration and English.<br>
   🧠 My professional passions are web application development, data management systems architecture, and digital process development.<br>
-  💬 I also like doing freelance web development, learning archaic/obscure programming languages, and raging on Counter Strike 2.<br>
+  💬 I also like doing freelance web development, learning archaic/obscure programming languages, and playing Counter Strike 2.<br>
 
 </h3><br>
 
@@ -31,7 +31,7 @@ These stats aren't super accurate, given that I mostly work in private repos for
 
 ![View Counter](https://komarev.com/ghpvc/?username=mullen-zen&color=blue&label=Visitors&style=for-the-badge)<br>
 
-<h2>🖥️ I'm Currently Working With:</h2>
+<!-- <h2>🖥️ I'm Currently Working With:</h2>
 
 ![Apple](https://img.shields.io/badge/-apple-D3D3D3?logo=apple&logoColor=white&style=for-the-badge)
 ![Beast Philanthropy](https://img.shields.io/badge/-Beast%20Philanthropy-35bdf7?logo=youtube&logoColor=white&style=for-the-badge)    
@@ -51,4 +51,4 @@ These stats aren't super accurate, given that I mostly work in private repos for
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 ![Processing](https://img.shields.io/badge/-Processing-006699?logo=processingfoundation&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge) -->
