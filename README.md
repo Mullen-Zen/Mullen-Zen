@@ -11,11 +11,11 @@
 </h2>
 <h3>
 
-  👋 Student & Software Developer.<br>
+  👋 Software Developer.<br>
   💠 From Greenville, North Carolina, USA.<br>
-  🎓 Studying at ECU for a B.S. degree in Computer Science with minors in Business Administration and English.<br>
-  🧠 My professional passions are web application development, data management systems architecture, and digital process development.<br>
-  💬 I also like doing freelance web development, learning archaic/obscure programming languages, and playing Counter Strike 2.<br>
+  🎓 Completed B.S. Degree at ECU in Computer Science with minors in Business Administration and English, and a certificate in Artificial Intelligence.<br>
+  🧠 My professional passions are web application development, data management systems architecture, and artificial intelligence development.<br>
+  💬 I also like doing networking/homelabbing, building small-scale AI passion projects for lightweight consumer hardware, and navigating the treacherous waters of Europa in the game Barotrauma.<br>
 
 </h3><br>
 
