@@ -14,7 +14,7 @@
   👋 Software Developer.<br>
   💠 From Greenville, North Carolina, USA.<br>
   🎓 Completed B.S. Degree at ECU in Computer Science with minors in Business Administration and English, and a certificate in Artificial Intelligence.<br>
-  🧠 My professional passions are web application development, data management systems architecture, and artificial intelligence development.<br>
+  🧠 My professional passions are web application development, data management systems architecture, and artificial intelligence development. I have professional interests in Software Engineering, Systems Administration, and Technical Writing.<br>
   💬 I also like doing networking/homelabbing, building small-scale AI passion projects for lightweight consumer hardware, and navigating the treacherous waters of Europa in the game Barotrauma.<br>
 
 </h3><br>
