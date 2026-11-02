@@ -7,7 +7,7 @@
   I'm a full-stack software developer.
 </h3>
 
-<a href="https://github.com/egorthinks/git-bonsai"> <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" /> </a> <a href="https://github.com/yalongwastaken/git-koi"> <img src="koi/koi.gif" width="256" alt="My koi" /> </a>
+<a href="https://github.com/egorthinks/git-bonsai"> <img src="output/bonsai-growth.gif" width="188" alt="my git-bonsai" /> </a> <a href="https://github.com/yalongwastaken/git-koi"> <img src="koi/koi.gif" width="256" alt="My koi" /> </a>
 
 <h2>
   💬 About Me
