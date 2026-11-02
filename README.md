@@ -22,15 +22,9 @@
 
 </h3><br>
 
-<!-- > [!NOTE]
-> My stats aren't very accurate, given that I mostly work in private repositories for work.
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none">
-  <img height=200 align="center" src="https://github-readme-stats-mullen-zens-projects.vercel.app/api?username=mullen-zen&show_icons=true&hide_border=true&include_all_commits=true&theme=cobalt&count_private=true" />
-</a> -->
 These stats aren't super accurate, given that I mostly work in private repos for work<br>
-<a href="https://github.com/anuraghazra/convoychat" style="text-decoration: none">
-  <img height=200 align="center" src="https://github-readme-stats-mullen-zens-projects.vercel.app/api/top-langs/?username=mullen-zen&layout=compact&theme=cobalt&hide_border=true" />
-</a>
+<img height=200 align="center" src="https://github-readme-stats-mullen-zens-projects.vercel.app/api?username=mullen-zen&show_icons=true&hide_border=true&include_all_commits=true&theme=cobalt&count_private=true" />
+<img height=200 align="center" src="https://github-readme-stats-mullen-zens-projects.vercel.app/api/top-langs/?username=mullen-zen&layout=compact&theme=cobalt&hide_border=true" />
 
 ![View Counter](https://komarev.com/ghpvc/?username=mullen-zen&color=blue&label=Visitors&style=for-the-badge)<br>
 
