@@ -6,6 +6,9 @@
   Hi! I'm Garrison.<br>
   I'm a full-stack software developer.
 </h3>
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 <h2>
   💬 About Me
 </h2>
