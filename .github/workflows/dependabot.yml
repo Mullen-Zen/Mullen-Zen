@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    ignore:
+      # git-bonsai is pinned to an audited commit that is not a release tag. Its newest
+      # tag (v1.0.0) is OLDER than that commit, so Dependabot would propose a downgrade.
+      # Update this one by hand after reviewing what changed.
+      - dependency-name: "egorthinks/git-bonsai"
