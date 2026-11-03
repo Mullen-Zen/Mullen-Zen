@@ -9,18 +9,18 @@
 
 <a href="https://github.com/egorthinks/git-bonsai"> <img src="output/bonsai-growth.gif" width="188" alt="my git-bonsai" /> </a> <a href="https://github.com/yalongwastaken/git-koi"> <img src="koi/koi.gif" width="256" alt="My koi" /> </a>
 
-<h2>
+<!-- <h2>
   💬 About Me
 </h2>
 <h3>
 
   👋 Software Developer.<br>
-  💠 From Greenville, North Carolina, USA.<br>
+  💠 North Carolina, USA.<br>
   🎓 Completed B.S. Degree at ECU in Computer Science with minors in Business Administration and English, and a certificate in Artificial Intelligence.<br>
   🧠 My professional passions are web application development, data management systems architecture, and artificial intelligence development. I have professional interests in Software Engineering, Systems Administration, and Technical Writing.<br>
   💬 I also like doing networking/homelabbing, building small-scale AI passion projects for lightweight consumer hardware, and navigating the treacherous waters of Europa in the game Barotrauma.<br>
 
-</h3><br>
+</h3><br> -->
 
 These stats aren't super accurate, given that I mostly work in private repos for work<br>
 <img height=200 align="center" src="https://github-readme-stats-mullen-zens-projects.vercel.app/api?username=mullen-zen&show_icons=true&hide_border=true&include_all_commits=true&theme=cobalt&count_private=true" />
