@@ -4,8 +4,10 @@
 
 <h3>
   Hi! I'm Garrison.<br>
-  I'm a full-stack software developer.
 </h3>
+  I'm a full-stack software engineer. In my free time, I like homelabbing, building small-scale AI projects for lightweight hardware, and ricing Arch.
+  I also enjoy Paradox Interactive games, playing instruments, and cooking Japanese food. 
+
 
 <a href="https://github.com/egorthinks/git-bonsai"> <img src="output/bonsai-growth.gif" width="188" alt="my git-bonsai" /> </a> <a href="https://github.com/yalongwastaken/git-koi"> <img src="koi/koi.gif" width="256" alt="My koi" /> </a>
 
@@ -22,7 +24,7 @@
 
 </h3><br> -->
 
-These stats aren't super accurate, given that I mostly work in private repos for work<br>
+<i>These stats aren't super accurate, given that I mostly work in private repos for work</i>
 <img height=200 align="center" src="https://github-readme-stats-mullen-zens-projects.vercel.app/api?username=mullen-zen&show_icons=true&hide_border=true&include_all_commits=true&theme=cobalt&count_private=true" />
 <img height=200 align="center" src="https://github-readme-stats-mullen-zens-projects.vercel.app/api/top-langs/?username=mullen-zen&layout=compact&theme=cobalt&hide_border=true" />
 
